@@ -84,6 +84,10 @@ Currently, Wolf Studios manages projects and inquiries through phone calls and e
 - **Scalability:**  
   As Wolf Studios grows, the system can easily handle increased inquiry volumes and financial data, supporting long-term business expansion.
 
+- **Dual Webhook Triggers**
+  Leveraging dual webhook triggers enables simultaneous processing of notifications and document creation. This means that while one webhook instantly alerts the team via Google Chat, the other triggers the automated creation of a contract document via Make.com. The result is a more robust, reliable, and efficient workflow that ensures every approved inquiry is both promptly communicated and seamlessly processed.
+
+
 ---
 
 ## Conclusion
